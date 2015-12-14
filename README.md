@@ -1,4 +1,6 @@
-Sum-Meet
+San-Meet
+
+San-Meet Screencast: https://www.youtube.com/watch?v=RCaKWoM8N0M&feature=youtu.be
 
 This is a course requirement for CS191/CS192 Software Engineering Course of the Department of Computer Science, College of Engineering, University of the Philippines Diliman under the guidance of Ma. Rowena C. Solamo for the 1st and 2nd semester of the academic year 2015-2016.
 
